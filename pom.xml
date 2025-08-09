@@ -50,6 +50,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>shyamala</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
